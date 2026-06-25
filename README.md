@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Jayita 👋
 
-<!--
-**JayitaRoy21/JayitaRoy21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate
 
-Here are some ideas to get you started:
+💼 Incoming Analyst Trainee
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills
+- Java
+- SQL
+- Python
+- Excel
+
+📚 Currently Learning
+- Pandas
+- AI Fundamentals
+- GitHub
+
+🌱 Interested In
+- Data Analytics
+- Artificial Intelligence
+- Business Analysis
+
+📫 Connect with me through GitHub
+
+✨ Always learning and building new things.
