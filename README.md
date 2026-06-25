@@ -2,8 +2,6 @@
 
 🎓 BCA Graduate
 
-💼 Incoming Analyst Trainee
-
 💻 Skills
 - Java
 - SQL
