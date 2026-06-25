@@ -11,7 +11,6 @@
 📚 Currently Learning
 - Pandas
 - AI Fundamentals
-- GitHub
 
 🌱 Interested In
 - Data Analytics
